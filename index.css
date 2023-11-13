@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container-1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.about{
+    flex: 1;
+}
+
+.store{
+    flex: 9;
+    text-align: left;
+}
+
+.gmail{
+    flex: 1;
+}
+
+.images{
+    flex: 1;
+}
+
+.grid{
+    flex: 1;
+    /* height:10px;  */
+}
+
+.sign{
+    flex: 1;
+    box-sizing: border-box;
+    padding-top: 15px;
+    background: #4887ef;
+    border: 1px solid;
+    border-radius: 20px;
+    color: whitesmoke;
+    height: 50px;
+    }
+
+.search{
+    width: 500px;
+    padding: 13px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+    border-radius: 30px;
+    position: absolute;
+    margin: 290px;
+    margin-left: 400px;
+
+}
+
+.google{
+    position: absolute;
+    padding: 150px;
+    margin-left: 370px;
+}
+
+.query {
+   border-style: none;
+   outline-style: none;
+}
+
+.bx bx-search{
+    box-sizing: border-box;
+}
+
+.icon{
+    position: absolute;
+    padding: 100px;
+    margin: 205px;
+    margin-left: 800px;
+}
+
+.container-3{
+    position: absolute;
+    padding-top: 320px;
+    margin: 40px;
+    margin-left: 500px;
+}
+
+button{
+    height: 40px;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin: 10px;
+    margin-right: 0px; 
+    color: gray;
+    border: 1px solid transparent;
+}
+
+.eng{
+    font-size:medium;
+    font-weight: lighter;
+    margin-left: 5px;
+}
+
+.container-4{
+    
+    padding-top: 650px;
+   
+}
+
+.con{
+    display: flex;
+    background: lightgray;
+
+}
+
+.ad{
+    flex: 1;
+}
+
+.bus{
+    flex: 1;
+}
+
+.hsw{
+    flex: 9;
+}
+
+.priv{
+    flex: 1;
+}
+
+.tem{
+    flex: 1;
+}
+
+.set{
+    flex: 1;
+}
+
+.nor{
+    background: lightgrey;
+}
